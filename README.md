@@ -1,1 +1,3 @@
 # fem_simulation
+code repository for fem simulation project
+main file is ...
